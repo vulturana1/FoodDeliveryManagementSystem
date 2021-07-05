@@ -1,0 +1,9 @@
+Order: 3
+Date: 2021-05-19 13:24
+Client: 1
+Price: 159
+
+Products: 
+Name: Spicy Pickled Shallots  Price: 78 RON
+Name: Cilantro-Tomato Salsa  Price: 32 RON
+Name: Classic Salad  Price: 49 RON

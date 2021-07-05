@@ -1,0 +1,7 @@
+Order: 1
+Date: 2021-05-19 13:23
+Client: 1
+Price: 79
+
+Products: 
+Name: Fresh Corn Tortillas  Price: 79 RON

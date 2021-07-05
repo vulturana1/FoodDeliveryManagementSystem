@@ -1,0 +1,8 @@
+Order: 8
+Date: 2021-05-19 13:25
+Client: 2
+Price: 117
+
+Products: 
+Name: Coriander-Herb Spice Rub  Price: 51 RON
+Name: Toasted Corn Crisps  Price: 66 RON

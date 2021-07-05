@@ -1,0 +1,9 @@
+Order: 2
+Date: 2021-05-19 13:24
+Client: 1
+Price: 235
+
+Products: 
+Name: Fresh Corn Tortillas  Price: 79 RON
+Name: Spicy Pickled Shallots  Price: 78 RON
+Name: Spicy Pickled Shallots  Price: 78 RON

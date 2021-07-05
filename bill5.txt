@@ -1,0 +1,9 @@
+Order: 5
+Date: 2021-05-19 13:25
+Client: 1
+Price: 132
+
+Products: 
+Name: Fish Stock  Price: 27 RON
+Name: Fresh Corn Tortillas  Price: 79 RON
+Name: Beef Stock  Price: 26 RON
